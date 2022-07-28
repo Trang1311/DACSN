@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,0,46,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":4,"equips":[25,27,0,9,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":2,"equips":[7,0,65,20,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":3,"equips":[13,0,0,20,100],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor3_6","characterIndex":5,"characterName":"Nature","classId":4,"equips":[37,0,0,8,0],"faceIndex":5,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hướng dẫn viên Elvis","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"SF_Actor2_7","characterIndex":6,"characterName":"SF_Actor2","classId":4,"equips":[1,0,0,20,0],"faceIndex":6,"faceName":"SF_Actor2","traits":[{"code":43,"dataId":14,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Aether","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[31,0,0,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ヴァイス","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":8,"equips":[43,43,0,3,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"エリザ","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Kristine","characterIndex":2,"characterName":"newchar","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"download20220504131510","traits":[{"code":64,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Kristine","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"Lucas","characterIndex":3,"characterName":"newchar","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"download20220505214345","traits":[{"code":64,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Lucas","nickname":"","note":"","profile":""}
+]
